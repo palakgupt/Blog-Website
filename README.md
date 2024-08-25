@@ -6,3 +6,4 @@ Blog content is displayed
 ![Screenshot 2024-08-25 180348](https://github.com/user-attachments/assets/a4b2a0ff-f45a-4c04-8134-8df5e2579360)
 <br>
 Login page
+![Screenshot 2024-08-25 180417](https://github.com/user-attachments/assets/50df2a3e-d3d6-4840-8749-df7e3bc54104)
